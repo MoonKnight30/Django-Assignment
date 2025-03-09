@@ -20,7 +20,7 @@ def import_students():
                     "branch": row["branch"],
                 },
             )
-    print("✅ Students imported successfully!")
+    print("Students imported successfully!")
 
 # Function to import placements
 def import_placements():
@@ -35,7 +35,7 @@ def import_placements():
                     "ctc": row["ctc"],
                 },
             )
-    print("✅ Placements imported successfully!")
+    print("Placements imported successfully!")
 
 # Function to import applications
 def import_applications():
@@ -52,10 +52,10 @@ def import_applications():
                     "selected": row["selected"].lower() == "true",
                 },
             )
-    print("✅ Applications imported successfully!")
+    print("Applications imported successfully!")
 
 if __name__ == "__main__":
     import_students()
     import_placements()
     import_applications()
-    print("🎉 All data imported successfully!")
+    print("All data imported successfully!")
