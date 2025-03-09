@@ -1,0 +1,31 @@
+id,name,role,ctc
+1,Tesla,Software Engineer,50
+2,Google,ML Engineer,47
+3,Facebook,Product Manager,59
+4,Apple,Data Scientist,44
+5,Facebook,ML Engineer,15
+6,Apple,ML Engineer,19
+7,Microsoft,ML Engineer,51
+8,Netflix,Product Manager,22
+9,IBM,Analyst,43
+10,IBM,Analyst,37
+11,IBM,Software Engineer,49
+12,Netflix,ML Engineer,36
+13,Apple,Software Engineer,41
+14,Facebook,Product Manager,59
+15,Google,Software Engineer,54
+16,Google,Data Scientist,44
+17,Google,Product Manager,59
+18,Facebook,ML Engineer,22
+19,Netflix,ML Engineer,45
+20,Tesla,ML Engineer,54
+21,Microsoft,Data Scientist,53
+22,Google,Data Scientist,48
+23,Netflix,ML Engineer,22
+24,Netflix,Data Scientist,26
+25,Apple,Product Manager,38
+26,Facebook,Software Engineer,52
+27,Google,Software Engineer,22
+28,Netflix,Product Manager,46
+29,Netflix,Software Engineer,22
+30,Amazon,Data Scientist,30
