@@ -26,4 +26,9 @@ python import_data.py
 python manage.py runserver
 ```
 - Open the link: http://127.0.0.1:8000/api/v1/statistics/
+
+- For additional endpoints
+- http://127.0.0.1:8000/api/v1/students/
+- http://127.0.0.1:8000/api/v1/placements/
+- http://127.0.0.1:8000/api/v1/applications/
   
